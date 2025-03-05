@@ -1,2 +1,2 @@
-# Task2
+# Calculator
 A Calculator using HTML, CSS and Javascript
